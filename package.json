@@ -1,0 +1,15 @@
+{
+  "name": "astronaut",
+  "description": "SOS please let me come down",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/myappsosavey"
+  },
+  "dependencies": {
+    "express": "4.13.4",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "body-parser": "*"
+  }
+}
